@@ -1,4 +1,5 @@
 /*var a=8;
+//using node inbuilt modules
 var b=12;
 var c=a+b;
 
